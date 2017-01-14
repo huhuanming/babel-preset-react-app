@@ -1,6 +1,7 @@
 {
   "name": "babel-preset-react-app",
   "license": "BSD-3-Clause",
+  "version": "0.1",
   "files": [
     "index.js"
   ],
